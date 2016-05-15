@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/picture">
+        <file>taiko_bg.png</file>
+        <file>taiko_blue.png</file>
+        <file>taiko_red.png</file>
+        <file>taiko_underbar.png</file>
+        <file>taiko_startview.png</file>
+        <file>start.png</file>
+        <file>exit.png</file>
+        <file>taiko_result.jpg</file>
+    </qresource>
+</RCC>
